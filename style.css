@@ -65,3 +65,30 @@ heroinfo p{
     font-size: 16px;
     border-radius: .25rem;
 }
+
+.info-heading{
+    margin: 0 auto;
+    color: white;
+}
+
+.infotab{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    align-content: space-around;
+    justify-content: space-evenly;
+    width: 70%;
+    height: 500px;
+    
+}
+
+.infotab .info-container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.product-info{
+    margin: 15px;
+    width: 200px;
+    color: white;
+}
