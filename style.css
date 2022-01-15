@@ -92,3 +92,35 @@ heroinfo p{
     width: 200px;
     color: white;
 }
+
+.quote-container{
+    background-color: #e5e7eb;
+    height: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.blockquote{
+    height: 40%;
+    width: 700px;
+    background-color: #d9dbde;
+    padding: 30px;
+    margin: 10px 30px;
+    border: 1px solid #c1c3c7;
+}
+
+.blockquote-text {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.5;
+    margin: 0;
+}
+
+.blockqoute-autor {
+    margin: 15px;
+    font-weight: bold;
+    font-style: normal;
+    text-align: right;
+}
