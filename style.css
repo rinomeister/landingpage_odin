@@ -170,3 +170,17 @@ body{
     border-color: #0d6efd;
 
 }
+
+.footer{
+    position: relative;
+    background-color: #1f2937;
+    height: 15%;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.footer a{
+    color: #fff;
+}
